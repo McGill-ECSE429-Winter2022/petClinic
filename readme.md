@@ -26,8 +26,8 @@ Or you can run it from Maven directly using the Spring Boot Maven plugin. If you
 
 > NOTE: Windows users should set `git config core.autocrlf true` to avoid format assertions failing the build (use `--global` to set that flag globally).
 
-## In case you find a bug/suggested improvement for Spring Petclinic
-Our issue tracker is available here: https://github.com/spring-projects/spring-petclinic/issues
+<!-- ## In case you find a bug/suggested improvement for Spring Petclinic
+Our issue tracker is available here: https://github.com/spring-projects/spring-petclinic/issues -->
 
 
 ## Database configuration
@@ -84,7 +84,7 @@ The following items should be installed in your system:
     Visit [http://localhost:8080](http://localhost:8080) in your browser.
 
 
-## Looking for something in particular?
+<!-- ## Looking for something in particular?
 
 |Spring Boot Configuration | Class or Java property files  |
 |--------------------------|---|
@@ -117,7 +117,7 @@ Here is a list of them:
 
 The [issue tracker](https://github.com/spring-projects/spring-petclinic/issues) is the preferred channel for bug reports, features requests and submitting pull requests.
 
-For pull requests, editor preferences are available in the [editor config](.editorconfig) for easy use in common text editors. Read more and download plugins at <https://editorconfig.org>. If you have not previously done so, please fill out and submit the [Contributor License Agreement](https://cla.pivotal.io/sign/spring).
+For pull requests, editor preferences are available in the [editor config](.editorconfig) for easy use in common text editors. Read more and download plugins at <https://editorconfig.org>. If you have not previously done so, please fill out and submit the [Contributor License Agreement](https://cla.pivotal.io/sign/spring). -->
 
 # License
 
